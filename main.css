@@ -1,0 +1,8 @@
+:root {
+    --text-color: red;
+}
+
+h1 {
+    --my-color: violet;
+    color: var(--my-color);
+}
